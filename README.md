@@ -17,4 +17,4 @@ Over time, it will produce outputs as follows.
 
 You can also monitor the results with tensorboard.
 
-My outputs: https://drive.google.com/drive/folders/1pTo4DYTc0Leq0USs-oFipWSvFAclTsuo?usp=sharing
+My outputs: [https://drive.google.com/drive/folders/1pTo4DYTc0Leq0USs-oFipWSvFAclTsuo?usp=sharing](https://drive.google.com/drive/folders/1sAmrvG6nGnnE565lrnKZZ4uvsbVcmIn5?usp=drive_link)https://drive.google.com/drive/folders/1sAmrvG6nGnnE565lrnKZZ4uvsbVcmIn5?usp=drive_link
